@@ -32,3 +32,8 @@
 
 ## virtualenv
 * [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
+
+
+## pipenv
+* [fish-pipenv](https://github.com/sentriz/fish-pipenv) - 🐟🐍 a fish plugin that automatically activates the pipenv subshell
+* [pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
