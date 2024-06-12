@@ -28,3 +28,7 @@
 ## pyenv
 * [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 * [pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+
+
+## virtualenv
+* [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
