@@ -37,3 +37,8 @@
 ## pipenv
 * [fish-pipenv](https://github.com/sentriz/fish-pipenv) - 🐟🐍 a fish plugin that automatically activates the pipenv subshell
 * [pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
+
+
+## conda
+* [conda-build](https://github.com/conda/conda-build) - Commands and tools for building conda packages
+* [staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks
