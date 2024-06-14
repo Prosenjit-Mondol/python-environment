@@ -35,7 +35,8 @@
 
 
 ## pipenv
-* [fish-pipenv](https://github.com/sentriz/fish-pipenv) - 🐟🐍 a fish plugin that automatically activates the pipenv subshell
+* [fish-pipenv](https://github.com/sentriz/fish-pipenv) - 🐟🐍![image](https://github.com/Prosenjit-Mondol/python-environment/assets/143212336/5a3b28d8-4baa-4170-8990-8b93f9be38f1)
+ a fish plugin that automatically activates the pipenv subshell
 * [pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
 
 
